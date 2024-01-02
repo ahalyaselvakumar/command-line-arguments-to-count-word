@@ -24,6 +24,7 @@ Input the values
 End the program
 
 ## PROGRAM:
+```
 #program is developed: AHALYA S
 # REF.NO: 23002896
 import sys
@@ -34,6 +35,7 @@ with open(sys.argv[1],'r') as file:
         count += len(word)
 print("program is developed: Pavithra R")
 print("word count in file = ",count)
+```
 
 ### OUTPUT:
 ![Output](<Screenshot 2024-01-02 190653.png>)
